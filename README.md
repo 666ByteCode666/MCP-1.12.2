@@ -1,3 +1,3 @@
 # MCP-1.12.2
 Minecraft 1.12.2
-For intelijj Idea
+For intelijj Idea (Gradlew) 
